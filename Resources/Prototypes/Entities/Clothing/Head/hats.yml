@@ -52,6 +52,15 @@
     sprite: Clothing/Head/Hats/beret_security.rsi
   - type: Clothing
     sprite: Clothing/Head/Hats/beret_security.rsi
+    # Sunrise-Start
+  - type: Armor
+    modifiers:
+      coefficients:
+        Blunt: 0.9
+        Slash: 0.9
+        Piercing: 0.9
+        Heat: 0.9
+    # Sunrise-End
   - type: Tag
     tags:
     - ClothMade
@@ -142,6 +151,15 @@
     sprite: Clothing/Head/Hats/beret_hos.rsi
   - type: Clothing
     sprite: Clothing/Head/Hats/beret_hos.rsi
+    # Sunrise-Start
+  - type: Armor
+    modifiers:
+      coefficients:
+        Blunt: 0.9
+        Slash: 0.9
+        Piercing: 0.9
+        Heat: 0.9
+    # Sunrise-End
   - type: Tag
     tags:
     - ClothMade
@@ -158,6 +176,15 @@
     sprite: Clothing/Head/Hats/beret_warden.rsi
   - type: Clothing
     sprite: Clothing/Head/Hats/beret_warden.rsi
+    # Sunrise-Start
+  - type: Armor
+    modifiers:
+      coefficients:
+        Blunt: 0.9
+        Slash: 0.9
+        Piercing: 0.9
+        Heat: 0.9
+    # Sunrise-End
 
 - type: entity
   parent: ClothingHeadBase

@@ -1639,9 +1639,9 @@
   productEntity: ClothingOuterVestWeb
   discountCategory: usualDiscounts
   discountDownTo:
-    Telecrystal: 1
+    Telecrystal: 9
   cost:
-    Telecrystal: 3
+    Telecrystal: 12
   categories:
   - UplinkWearables
 
