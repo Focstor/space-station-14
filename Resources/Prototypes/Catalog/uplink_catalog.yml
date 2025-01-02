@@ -1639,9 +1639,9 @@
   productEntity: ClothingOuterVestWeb
   discountCategory: usualDiscounts
   discountDownTo:
-    Telecrystal: 9
+    Telecrystal: 2 # Sunrise-Edit
   cost:
-    Telecrystal: 12
+    Telecrystal: 5 # Sunrise-Edit
   categories:
   - UplinkWearables
 
